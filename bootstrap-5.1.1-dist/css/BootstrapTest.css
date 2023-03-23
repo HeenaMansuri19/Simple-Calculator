@@ -1,0 +1,24 @@
+.col-2
+{
+    background-color: blue;
+}
+.col-10
+{
+    background-color: chartreuse;
+}
+.col-3
+{
+    background-color: coral;
+}
+.col-9
+{
+    background-color: cyan;
+}
+.col-4
+{
+    border: 2px solid black;
+}
+.first
+{
+    background-color: crimson;
+}
